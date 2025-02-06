@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weight-Loss-Management-App/static/css/main.1fa55584.css",
+    "main.js": "/Weight-Loss-Management-App/static/js/main.147c3b1b.js",
+    "static/js/488.e5455daf.chunk.js": "/Weight-Loss-Management-App/static/js/488.e5455daf.chunk.js",
+    "index.html": "/Weight-Loss-Management-App/index.html",
+    "main.1fa55584.css.map": "/Weight-Loss-Management-App/static/css/main.1fa55584.css.map",
+    "main.147c3b1b.js.map": "/Weight-Loss-Management-App/static/js/main.147c3b1b.js.map",
+    "488.e5455daf.chunk.js.map": "/Weight-Loss-Management-App/static/js/488.e5455daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fa55584.css",
+    "static/js/main.147c3b1b.js"
+  ]
+}
