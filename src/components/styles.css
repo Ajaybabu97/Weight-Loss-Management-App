@@ -1,0 +1,22 @@
+.table {
+    margin-top: 20px;
+    border-radius: 0.5rem;
+    overflow: hidden; /* For rounded corners */
+}
+
+.table th {
+    background-color: #343a40; /* Dark background for header */
+    color: white; /* White text for header */
+}
+
+.table td {
+    vertical-align: middle; /* Center align text vertically */
+}
+
+.table button {
+    transition: background-color 0.3s ease; /* Smooth transition for button hover */
+}
+
+.table button:hover {
+    opacity: 0.8; /* Slightly dim buttons on hover */
+}
